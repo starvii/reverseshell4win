@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="linrev.c">
+    <ClCompile Include="reverse_shell.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
